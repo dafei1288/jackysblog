@@ -78,10 +78,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dafei1288/dafei1288.github.io.git
+  repo: https://github.com/dafei1288/dafei1288.github.io
   branch: master
-  username: dafei1288@sina.com  
-  password: maliwen1288
+
 
 
 # Menu configuration.
@@ -112,7 +111,7 @@ since: 2014
 social:
   GitHub: https://github.com/dafei1288
   weibo: http://weibo.com/dafei1288
-  zhihu: http://www.zhihu.com/people/dafei1288
+  #zhihu: http://www.zhihu.com/people/dafei1288
   #Others:
 
       
@@ -121,6 +120,6 @@ social_icons:
   enable: true
   # Icon Mappings
   GitHub: github
-  Twitter: twitter
+  #Twitter: twitter
   weibo: weibo
-  zhihu: weibo 
+  #zhihu: weibo 
