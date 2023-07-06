@@ -9,6 +9,9 @@ date: 2014-10-16
 ---
 
 Most Useful Sublime Text Shortcuts
+
+<!-- more -->
+
 *. ctrl + k + b   for hiding and showing the sidebar.
 
 *. F11 for using sublime in full screen mode
